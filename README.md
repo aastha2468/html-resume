@@ -8,7 +8,7 @@ Find the background story of this project at [my blog](https://blogs.purincess.t
 # Compatibility and Known Issues/Limitations
 * I have only tested this project on latest release version of Firefox (56 as of writing) and Google Chrome (61) on macOS 10.13 (High Sierra).
 * It's my intention to support other browsers/platforms (like IE Edge on Windows?) as long as the browser sufficiently supports the required CSS features: ``calc()``, ``var()``, ``flexbox``, ...etc, and does not require (too many) dirty tricks. PRs or comments welcome!
-* **No hyperlinking functionality in rendered PDF** as browers's print-to-PDF process is merely "flattening to digital paper".
+* **No hyperlinking functionality in rendered PDF** as browser's print-to-PDF process is merely "flattening to digital paper".
 * Other browser-specific hacks are as commented in the code.
 
 # Fonts, Icon Fonts, and Dependencies
